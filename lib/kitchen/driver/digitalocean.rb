@@ -183,6 +183,7 @@ module Kitchen
           'fedora-23'      => 'fedora-23-x64',
           'freebsd-10.1'   => 'freebsd-10-1-x64',
           'freebsd-10.2'   => 'freebsd-10-2-x64',
+          'freebsd-10.3'   => 'freebsd-10-3-x64',
           'ubuntu-12.04'   => 'ubuntu-12-04-x64',
           'ubuntu-14.04'   => 'ubuntu-14-04-x64',
           'ubuntu-15.04'   => 'ubuntu-15-04-x64',
